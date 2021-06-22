@@ -1,0 +1,3 @@
+node main.js help
+node main.js organize "Directory Path"
+node main.js tree "Directory Path"
